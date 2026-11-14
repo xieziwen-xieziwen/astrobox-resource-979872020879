@@ -1,6 +1,6 @@
 {
   "item": {
-    "id": "979872020879",
+    "id": "979885465330",
     "restype": "watchface",
     "name": "本田思域9代",
     "description": "本田思域9代",
@@ -21,10 +21,14 @@
   "links": [],
   "downloads": {
     "xmb9p": {
-      "version": "1.0.0",
+      "version": "1.1.1",
       "file_name": "downloads/HONDA CIVIC 9-V4-202611141258.bin",
-      "versionCode": 65536
+      "versionCode": 65793
     }
   },
-  "ext": {}
+  "ext": {
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/xieziwen-xieziwen/astrobox-resource-979885465330/main/wallpaper/wallpaper.json"
+    }
+  }
 }
