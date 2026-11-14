@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "979872020879",
+    "restype": "watchface",
+    "name": "本田思域9代",
+    "description": "本田思域9代",
+    "preview": [
+      "media/微信图片_20261114130246_153_140.jpg",
+      "media/微信图片_20261114130248_154_140.jpg",
+      "media/微信图片_20261114130249_155_140.jpg"
+    ],
+    "icon": "media/微信图片_20261114125952_150_140.jpg",
+    "cover": "media/微信图片_20261114125952_151_140.jpg",
+    "author": [
+      {
+        "name": "xieziwen",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/HONDA CIVIC 9-V4-202611141258.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
