@@ -18,7 +18,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "QQ 群",
+      "url": "https://qm.qq.com/q/31sUIuN3lm",
+      "icon": "book"
+    }
+  ],
   "downloads": {
     "xmb9p": {
       "version": "1.1.1",
